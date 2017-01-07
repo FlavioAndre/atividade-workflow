@@ -1,0 +1,21 @@
+{
+  "name": "Atividade Boilerplate",
+  "homepage": "https://github.com/FlavioAndre/atividade-workflow",
+  "authors": [
+    "Flávio André <flavioandre.fla@hotmail.com>"
+  ],
+  "description": "Atividade do treinamento de Certificação de bootstrap da atividade referente a crição de boilerplate",
+  "main": "",
+  "keywords": [
+    "bower",
+    "sass"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
